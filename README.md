@@ -1,15 +1,12 @@
 ## Hi there! 👋 I'm Tom
 
-Welcome to my GitHub profile! I am a Software Engineering student currently studying at Hive Helsinki currently looking for job opportunities in the software industry.
-
+Welcome to my GitHub profile! I am a Software Engineering student currently studying at Hive Helsinki currently looking for job opportunities in the software industry.<br><br>
 
 ## 🌱 Currently Learning 
 
 - **Hive Helsinki** 🐝 - C, C++, Data Structure and Algorithms, Concurrent Programming, Network Programming, Networks and Systems Administration, Graphics Programming, Full Stack and Web Development.
-- **University of Helsinki Full Stack open** 📚 - React, Redux, Node.js, MongoDB, GraphQL, TypeScript.
+- **University of Helsinki Full Stack open** 📚 - React, Redux, Node.js, MongoDB, GraphQL, TypeScript.<br><br>
   
-  
-
 ## 🔧 Technologies & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -18,9 +15,7 @@ Welcome to my GitHub profile! I am a Software Engineering student currently stud
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br><br>
 
 ## 🚀 My GitHub Projects
 
@@ -36,9 +31,7 @@ A 3D graphical representation of a maze using ray-casting principles, inspired b
 
 ## 3. **ft_irc**  
 [![Project 3](https://img.shields.io/badge/ft_irc-3357FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/project-3)  
-An IRC server in C++, which allows clients to connect, authenticate, and communicate through channels and private messages using TCP/IP. The server handles multiple clients simultaneously, supports non-blocking I/O with a single poll(), and implements key IRC features.
-
-
+An IRC server in C++, which allows clients to connect, authenticate, and communicate through channels and private messages using TCP/IP. The server handles multiple clients simultaneously, supports non-blocking I/O with a single poll(), and implements key IRC features.<br><br>
 
 ## 📫 Connect with Me 🤝
 

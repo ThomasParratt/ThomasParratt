@@ -21,18 +21,17 @@ Welcome to my GitHub profile! I am a Software Engineering student currently stud
 
 Here are three of my Hive projects:
 
-## 1. **Minishell**  
-[![Project 1](https://img.shields.io/badge/Minishell-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThomasParratt/minishell)  
-A simple, functional Unix shell written in C that supports features like command execution, environment variable handling, input/output redirection, pipes, and built-in commands, all while adhering to strict memory management and behavior standards.
-
-## 2. **cub3d**  
+## 1. **cub3d**  
 [![Project 2](https://img.shields.io/badge/cub3d-33FF57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThomasParratt/cube3D)  
 A 3D graphical representation of a maze using ray-casting principles, inspired by the classic Wolfenstein 3D, with smooth window management, player movement and interactions, and the use of textures and colours for walls, floor, and ceiling, all within the MLX42 library.
 
-## 3. **ft_irc**  
+## 2. **ft_irc**  
 [![Project 3](https://img.shields.io/badge/ft_irc-3357FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/project-3)  
 An IRC server in C++, which allows clients to connect, authenticate, and communicate through channels and private messages using TCP/IP. The server handles multiple clients simultaneously, supports non-blocking I/O with a single poll(), and implements key IRC features.<br><br>
 
+## 3. **Minishell**  
+[![Project 1](https://img.shields.io/badge/Minishell-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThomasParratt/minishell)  
+A simple, functional Unix shell written in C that supports features like command execution, environment variable handling, input/output redirection, pipes, and built-in commands, all while adhering to strict memory management and behavior standards.
 ## 📫 Connect with Me 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thomas-parratt-hive)

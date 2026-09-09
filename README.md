@@ -48,7 +48,7 @@ A production-ready, full-stack school management system designed to handle users
 ### 🏫 The Hive Helsinki Foundation
 My education at Hive Helsinki (modeled after École 42) instilled a rigorous code-quality mindset. Before moving to modern web frameworks, I engineered complex systems from scratch without standard libraries:
 * **Object-Oriented Mastery:** Developed deep OOP principles and compile-time memory optimization using **C++**.
-* **Systems Programming:** Built a custom Unix shell (**Minishell**) in C, implementing process management, piping, and environment tracking.
+* **Systems Programming:** Built a custom Unix shell ([ThomasParratt/minishell](https://github.com/ThomasParratt/minishell)) in C, implementing process management, piping, and environment tracking.
 * **Mindset:** Extreme autonomy, rigorous peer code-reviews, and test-driven engineering habits.
 
 ---
